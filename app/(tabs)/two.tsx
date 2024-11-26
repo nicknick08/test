@@ -1,11 +1,11 @@
-import { StyleSheet, View,Text} from 'react-native';
+import { StyleSheet, View,Text } from 'react-native';
 
 
 
-export default function TabOneScreen() {
+export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
+      <Text style={styles.title}>Tab Two</Text>
     </View>
   );
 }
